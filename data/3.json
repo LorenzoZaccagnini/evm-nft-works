@@ -1,0 +1,11 @@
+{
+    "description": "Third Token minted", 
+    "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/3.png", 
+    "name": "Third Token minted",
+    "attributes": [
+        {
+          "trait_type": "Shape", 
+          "value": "Circle"
+        }, 
+    ]
+}

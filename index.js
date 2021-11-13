@@ -40,7 +40,7 @@ http
 
         const osmJson = {
           "description": "News from mars", 
-          "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/3.png", 
+          "image": "https://github.com/LorenzoZaccagnini/evm-nft-works/blob/main/data/rover.png?raw=true", 
           "name": "Tokenosity",
           "attributes": [
             {
